@@ -12,17 +12,17 @@
         Com foco em boas práticas, escalabilidade e qualidade.
 
 ---
-        
 ##💡 Pontos Fortes:
-## 🧠 Soft Skills:
-        Pensamento crítico
+
+    🧠 Soft Skills:
+    Pensamento crítico
     Organização e clareza
     Estética e atenção à qualidade
     Adaptabilidade e resiliência
     Capacidade de aprendizado autodidata
     Persistência (masoquista nato! 😅)
 
- ## 🔧 Hard Skills
+    🔧 Hard Skills
     Design patterns (amador apaixonado!)
     Programação avançada em Lua
     UI/UX
