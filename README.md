@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&count_private=true" width="400" alt="ConceptionWorld's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ConceptionWorld&theme=nord&hide_border=true" width="410" alt="ConceptionWorld's GitHub Streak"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ConceptionWorld&theme=nord&hide_border=true" width="417" alt="ConceptionWorld's GitHub Streak"/> 
 </div>
 
 ## 🧠 Linguagens que uso:
