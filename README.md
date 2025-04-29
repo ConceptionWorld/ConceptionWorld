@@ -30,7 +30,8 @@
         Programação avançada em Lua
         UI/UX
 
-![ConceptionWorld's Stats](https://github-readme-stats.vercel.app/api?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![ConceptionWorld's Stats](https://github.com/ConceptionWorld/ConceptionWorld/blob/main/TestDoido/api?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&count_private=true)
+
 ![ConceptionWorld's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ConceptionWorld&theme=nord&hide_border=true)
 
 ## 🧠 Linguagens que uso:
@@ -40,3 +41,4 @@
 </div>
 
 <!--![ConceptionWorld's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&layout=compact)
+https://github.com/ConceptionWorld/ConceptionWorld/blob/main/TestDoido
