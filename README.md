@@ -30,12 +30,10 @@
         Programação avançada em Lua
         UI/UX
 
-
-| Star Geographic Distribution                                                                                                                    | Star History                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=851265087&image_size=auto" /> |
+<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=851265087&image_size=auto" />
+<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" />
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ConceptionWorld&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ConceptionWorld/github-readme-stats#gh-dark-mode-only)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ConceptionWorld&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)]
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ConceptionWorld&size_weight=0.5&count_weight=0.5&theme=dark#gh-dark-mode-only)
