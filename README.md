@@ -29,3 +29,13 @@
         Design patterns (amador apaixonado!)
         Programação avançada em Lua
         UI/UX
+
+
+| Star Geographic Distribution                                                                                                                    | Star History                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=851265087&image_size=auto" /> | <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=851265087&image_size=auto" /> |
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NicolyLuisaG&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/NicolyLuisaG/github-readme-stats#gh-dark-mode-only)
+
+!Top Langs GitHub stats-Dark
