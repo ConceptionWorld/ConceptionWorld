@@ -15,7 +15,7 @@
     
 ## 💡 Pontos Fortes!
 
- ## 🧠 Soft Skills:
+    🧠 Soft Skills:
     
         Pensamento crítico
         Organização e clareza
@@ -24,7 +24,7 @@
         Capacidade de aprendizado autodidata
         Persistência (masoquista nato! 😅)
 
-## 🔧 Hard Skills:
+    🔧 Hard Skills:
 
         Design patterns (amador apaixonado!)
         Programação avançada em Lua
