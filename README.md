@@ -10,8 +10,8 @@
         Conceitos matemáticos
         Arquitetura de sistemas
         Com foco em boas práticas, escalabilidade e qualidade.
-## 👋 Oii, Mundo!
-
+        
+## 💡 Pontos Fortes!
     🧠 Soft Skills:
     Pensamento crítico
     Organização e clareza
@@ -25,6 +25,4 @@
     Programação avançada em Lua
     UI/UX
 
----
-
-##📈 Estou em constante evolução, então fique à vontade para explorar os projetos e acompanhar meu progresso!
+## 📈 Estou em constante evolução, então fique à vontade para explorar os projetos e acompanhar meu progresso!
