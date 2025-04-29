@@ -27,5 +27,3 @@
     Design patterns (amador apaixonado!)
     Programação avançada em Lua
     UI/UX
-
-## 📈 Estou em constante evolução, então fique à vontade para explorar os projetos e acompanhar meu progresso!
