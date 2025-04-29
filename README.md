@@ -10,7 +10,7 @@
         Conceitos matemáticos
         Arquitetura de sistemas
         Com foco em boas práticas, escalabilidade e qualidade.
-##💡Pontos Fortes:
+## 👋 Oii, Mundo!
 
     🧠 Soft Skills:
     Pensamento crítico
