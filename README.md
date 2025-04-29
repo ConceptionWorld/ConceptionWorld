@@ -31,14 +31,21 @@
         UI/UX
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&count_private=true" width="400" alt="ConceptionWorld's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ConceptionWorld&theme=nord&hide_border=true" width="423" alt="ConceptionWorld's GitHub Streak"/> 
+    <img src="https://github-readme-stats.vercel.app/api?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&count_private=true" width="400" alt="ConceptionWorld's GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ConceptionWorld&theme=nord&hide_border=true" width="423" alt="ConceptionWorld's GitHub Streak"/> 
 </div>
 
 ## 🧠 Linguagens que uso:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="69" alt="Lua" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="69" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="69" alt="Lua" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="69" alt="Python" />
+</div>
+
+## 🧠 Linguagens (Linguagens de marcação)/Bibliotecas/API que pretendo aprender:
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="69" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="69" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" width="69" alt="Json"  />
 </div>
 
 <!--![ConceptionWorld's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&layout=compact)
