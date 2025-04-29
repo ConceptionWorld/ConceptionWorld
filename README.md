@@ -30,14 +30,13 @@
         Programação avançada em Lua
         UI/UX
 
+![ConceptionWorld's Stats](https://github-readme-stats.vercel.app/api?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![ConceptionWorld's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ConceptionWorld&theme=nord&hide_border=true)
+
 ## 🧠 Linguagens que uso:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="69" alt="Lua" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="69" alt="Python" />
 </div>
-
-
-![ConceptionWorld's Stats](https://github-readme-stats.vercel.app/api?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![ConceptionWorld's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ConceptionWorld&theme=nord&hide_border=true)
 
 <!--![ConceptionWorld's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&layout=compact)
