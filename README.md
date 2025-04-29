@@ -1,5 +1,5 @@
 ## 👋 Oii, Mundo!
-    Seja bem-vindo ao meu GitHub!
+    😁 Seja bem-vindo ao meu GitHub!
 
     🎓 Estou na área de programação há cerca de 1 ano. Comecei a aprender por conta própria, movido pela curiosidade e pela vontade de construir coisas com código.
 
